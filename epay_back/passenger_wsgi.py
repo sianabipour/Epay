@@ -1,0 +1,1 @@
+from epay.wsgi import application
